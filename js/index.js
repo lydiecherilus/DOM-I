@@ -105,4 +105,3 @@ paragraphs[5].textContent += "Somewhere, USA"
 paragraphs[6].textContent = "1 (888) 888-8888"
 paragraphs[7].textContent = "sales@greatidea.io"
 paragraphs[8].textContent = "Copyright Great Idea! 2018"
-
